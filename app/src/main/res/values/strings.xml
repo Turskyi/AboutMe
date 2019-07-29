@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Dmytro Turskyi</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello, my name is Dmytro.
+        I love Android development.
+       \n\nI attained the specialization as a carpenter-builder in a building lyceum and a hydropower engineer in the state
+        academy.
+        \nGot a qualification as a sales manager.
+        \n\nSince December 2018, I devoted myself entirely to the change of activity towards the study of programming and
+        Android in particular.
+        \n\nCurrently looking for training in Zaporizhzhia city, Ukraine. \n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
