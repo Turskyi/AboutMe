@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <layout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -28,6 +27,7 @@
                 android:id="@+id/nickname_edit"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:autofillHints="nickname"
                 android:inputType="textPersonName|textImeMultiLine"
                 android:ems="10"
                 style="@style/NameStyle"
